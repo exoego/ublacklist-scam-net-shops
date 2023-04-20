@@ -5,7 +5,10 @@ on:
     branches:
       - master
     paths:
-      - uBlacklist.txt
+      - source.txt
+
+permissions:
+  contents: write
 
 jobs:
   generate-files:

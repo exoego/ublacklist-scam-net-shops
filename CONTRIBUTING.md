@@ -1,8 +1,8 @@
 # How to contribute
 
-If you want to add a domain, add the new line(s) to the end of `uBlacklist.txt`.
-
-No need to sort the file. 
+If you want to add a domain, add the new line(s) to the end of `source.txt` without sorting lines.
+ 
+Do not directly edit `uBlacklist.txt`.
 GitHub Actions will sort the file automatically when PRs get merged.
 
 ## How to determine whether to accept
