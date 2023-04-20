@@ -50,6 +50,7 @@ and [edit this file](https://github.com/exoego/ublacklist-scam-net-shops/edit/ma
 ## Acknowledgements
 
 - [irotate/uBlacklist](https://github.com/iorate/uBlacklist) for the exceptional browser extension
+- [消費者庁 悪質な海外ウェブサイト一蘭](https://www.caa.go.jp/policies/policy/consumer_research/international_affairs/assets/consumer_research_cms209_230224_01.pdf)
 
 ## License
 
