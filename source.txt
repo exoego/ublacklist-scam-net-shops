@@ -1878,3 +1878,4 @@
 *://*.redrhinoz.com/*
 *://*.rossogroupsrl.it/*
 *://*.tarpizza.com/*
+*://*.houlove.life/*
