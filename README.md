@@ -45,7 +45,7 @@ but happy to include other suspicious sites in other languages.<br>
 ## Contribution
 
 Check [CONTRIBUTING.md](CONTRIBUTING.md)
-and [edit this file](https://github.com/exoego/ublacklist-scam-net-shops/edit/master/uBlacklist.txt).
+and [add new entries to the bottom of this file](https://github.com/exoego/ublacklist-scam-net-shops/edit/master/source.txt).
 
 ## Acknowledgements
 
