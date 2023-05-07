@@ -3158,3 +3158,4 @@
 *://*.zzioasw.com/*
 *://*.zzuiiau.com/*
 *://*.zzuoas.com/*
+/^https?:\/\/[^/]+\/.*(R(URL|EDIRECT)|FILE(?:NAME)?|UR[LI]|DEST(?:INATION)?|LINK)=.*\//i
