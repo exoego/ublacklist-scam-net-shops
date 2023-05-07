@@ -3158,3 +3158,4 @@
 *://*.zgxchatfin.top/
 *://*.zjfcontracthan.top/
 *://*.zntexchangeliu.top/
+/^https?:\/\/[^/]+\/.*(R(URL|EDIRECT)|FILE(?:NAME)?|UR[LI]|DEST(?:INATION)?|LINK)=.*\//i
